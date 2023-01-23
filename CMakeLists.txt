@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(customLib)
 
-add_library(Great great_lib.cpp)
+add_library(sm_utils utils.cpp)
